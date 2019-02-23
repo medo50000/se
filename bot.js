@@ -9,16 +9,16 @@ client.user.setPresence({
   status: 'dnd',
   game: { 
      type: 0,
-     name: `Dragon Bot`,
-     details: `Dragon Bot`,
-     url: 'http://twitch.tv/ii7mody12',
-     state: `Dragon Bot`,
-    application_id: '377479790195769345',
+     name: `MaN OF DarK`,
+     details: `MaN OF DarK`,
+     url: 'https://www.twitch.tv/amira',
+     state: `MaN OF DarK`,
+    application_id: '391322002692112384',
      assets: {
-        small_image: `377480550207717376`,
-        small_text: 'Dragon Bot',
-        large_image: `377480353259978752`,
-        large_text: `Dragon Bot` }
+        small_image: `391322002692112384`,
+        small_text: 'MaN OF DarK',
+        large_image: `391322002692112384`,
+        large_text: `MaN OF DarK` }
 
   }
     });
