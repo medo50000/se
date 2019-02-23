@@ -13,7 +13,7 @@ client.user.setPresence({
      details: `MaN OF DarK`,
      url: 'https://www.twitch.tv/amira',
      state: `MaN OF DarK`,
-    application_id: '548999765669576764',
+    application_id: `548999765669576764`,
      assets: {
         small_image: `548999765669576764`,
         small_text: 'MaN OF DarK',
