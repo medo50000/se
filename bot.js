@@ -13,11 +13,11 @@ client.user.setPresence({
      details: `MaN OF DarK`,
      url: 'https://www.twitch.tv/amira',
      state: `MaN OF DarK`,
-    application_id: `548999765669576764`,
+    application_id: `https://cdn.discordapp.com/attachments/519813903014952968/552459342423523338/KJmQ6r44_400x400.jpg`,
      assets: {
-        small_image: `548999765669576764`,
+        small_image: `https://cdn.discordapp.com/attachments/519813903014952968/552459342423523338/KJmQ6r44_400x400.jpg`,
         small_text: 'MaN OF DarK',
-        large_image: `548999765669576764`,
+        large_image: `https://cdn.discordapp.com/attachments/519813903014952968/552459342423523338/KJmQ6r44_400x400.jpg`,
         large_text: `MaN OF DarK` }
 
   }
